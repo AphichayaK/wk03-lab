@@ -12,7 +12,7 @@
 
 ---
 
-## �� File Structure
+## File Structure
 
 ```
 wk03-lab/
@@ -27,7 +27,7 @@ wk03-lab/
 
 ---
 
-## ������ Key Concepts
+## Key Concepts
 
 ### CSS Selectors Priority (Specificity)
 
